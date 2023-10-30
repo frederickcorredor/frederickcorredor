@@ -1,7 +1,7 @@
 ![Banner para Linkedin Licenciado en marketing Corporativo Verde y blanco](https://github.com/frederickcorredor/frederickcorredor/assets/144303183/3bda8c83-8abb-49a2-bd15-f995a8ffdce6)
 
 - 👀 Puedes ver mi portafolio visitando 
-desarrolladorweb.online
+www.desarrolladorweb.online
 
 ✨ Trabajo como desarrollador FrontEnd.
 Además enseño a niños y adolescentes a aprender HTML5 CSS3 y JavaScript✨
