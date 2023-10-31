@@ -3,8 +3,10 @@
 - 👀 Puedes ver mi portafolio visitando 
 www.desarrolladorweb.online
 
-✨ Trabajo como desarrollador FrontEnd.
-Además enseño a niños y adolescentes a aprender HTML5 CSS3 y JavaScript✨
+✨ Trabajo como desarrollador FrontEnd.✨
+
+Enseño a niños y adolescentes a aprender HTML5 CSS3 y JavaScript
+https://frederickcorredor.github.io/curso/
   
 - 📫 Me puedes contactar en
 frederick@desarrolladorweb.online
